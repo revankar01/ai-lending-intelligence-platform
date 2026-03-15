@@ -4,5 +4,3 @@ plotly
 openai
 python-dotenv
 numpy
-Y
-
